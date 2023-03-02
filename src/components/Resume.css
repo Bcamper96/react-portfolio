@@ -1,0 +1,26 @@
+.resume-button {
+    background-color: rgb(52, 52, 221);
+    border: none;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 20px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+  }
+  .resume-button:hover {
+    background-color: rgb(31, 31, 156);
+    cursor: pointer;
+  }
+  .proficiencies-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  h1 {
+    margin-bottom: 50px;
+  }
+  

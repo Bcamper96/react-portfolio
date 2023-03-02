@@ -1,0 +1,35 @@
+.contact-container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  label {
+    display: block;
+    font-size: 1.2em;
+    margin-top: 20px;
+  }
+  
+  input, textarea {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  button[type="submit"] {
+    background-color:  rgb(52, 52, 221);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  button[type="submit"]:hover {
+    background-color:   rgb(31, 31, 156);
+  }
+  
